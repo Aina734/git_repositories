@@ -1,0 +1,1 @@
+This is the practice for usig git and attaching it to gitHub repositories 
